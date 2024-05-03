@@ -39,7 +39,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href:"http://localhost:3001/Riya-Dharsandiya-resume.pdf",
+            href:"https://6634fc2cd79e9e06e351f13d--riyasportfolio.netlify.app/Riya-Dharsandiya-resume.pdf",
             style:'rounded-br-md',
             download:true,
             
