@@ -123,7 +123,7 @@ const Portfolio = () => {
                     <p className='py-6 text-2xl'>Check out some portfolios here.</p>
                 </div>
 
-                <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 p-12 sm:px-0'>
+                <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 p-12 sm:px-5 px-5'>
                     {portfolios.map((item) => (
                         <PortfolioItem key={item.id} {...item} />
                     ))}
