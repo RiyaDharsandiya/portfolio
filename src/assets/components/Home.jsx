@@ -59,7 +59,7 @@ const Home = () => {
                         </Link>
                     </div>
                 </motion.div>
-                <motion.img src={mainImg} alt="my profile" className='w-1/2 rounded-full md:w-50 animate-blob' initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.5 }} />
+                <motion.img src={mainImg} alt="my profile" className='w-1/2 rounded-full md:w-50 animate-blob pt-10' initial={{ opacity: 0, x: -20 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.5 }} />
             </div>
         </div>
     );

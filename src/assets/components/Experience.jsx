@@ -146,9 +146,9 @@ const Experience = () => {
   return (
     <div name="experience" className=' bg-gradient-to-b from-gray-800 to-black w-full h-100vh text-white'>
             <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white '>
-                <div className='pt-20 mt-20'>
+                <div className='pt-10'>
                     <p className='text-4xl p-2 font-bold border-b-4 border-gray-500 inline'>Experience</p>
-                    <h1 className='text-3xl py-20 '>Work Experience</h1>
+                    <h1 className='text-3xl py-10 '>Work Experience</h1>
                     <div className=''>
                         <TimeLine />
                     </div>

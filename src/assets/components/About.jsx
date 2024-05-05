@@ -26,7 +26,7 @@ const About = () => {
 
     return (
         <div name="about" ref={ref} className='w-full h-80vh bg-gradient-to-b from-gray-800 to-black text-white'>
-            <div className='max-w-screen-lg p-4  mx-auto flex flex-col justify-center w-full h-full'>
+            <div className='max-w-screen-lg p-2  mx-auto flex flex-col justify-center w-full h-full'>
                 <div>
                     <p className='text-4xl font-bold inline overflow-hidden border-b-4 border-gray-500 animate-about'>About</p>
                 </div>
