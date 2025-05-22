@@ -149,12 +149,12 @@ const Experience = () => {
                 <div className='pt-10'>
                     <p className='text-4xl p-2 font-bold border-b-4 border-gray-500 inline'>Experience</p>
                     <h1 className='text-3xl py-10 '>Work Experience</h1>
-                    <div className=''>
+                    <div>
                         <TimeLine />
                     </div>
                     <p className='py-20 text-2xl'>These are the technologies I am acquainted with.</p>
                 </div>
-                <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center pb-20 px-12 sm:px-0'>
+                <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center px-12 sm:px-0'>
                     {techs.map(({ id, src, title, style, style2, percent }) => (
                         <TechItem key={id} src={src} title={title} style={style} style2={style2} percent={percent} />
                     ))}
