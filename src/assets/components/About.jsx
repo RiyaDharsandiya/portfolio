@@ -31,7 +31,8 @@ const About = () => {
                     <p className='text-4xl font-bold inline overflow-hidden border-b-4 border-gray-500 animate-about'>About</p>
                 </div>
                 <motion.p initial={{ opacity: 0, y: 20 }} animate={inView ? { opacity: 1, y: 0 } : {}} transition={{ duration: 0.5 }} className='text-xl mt-20 animate-about'>
-                 BscIT Graduate from Usha Pravin Gandhi College.I have worked at iDigitize as an ex-backend-intern and learned Nodejs, Express, Prisma, MongoDB, PhP, SQL. I have also learned many languages like C, C++, HTML, CSS, JavaScript, PHP, SQL, MySQL, Advance PHP, Python, Core Java, Data Structures and will be keen to learn more. I have made small projects based on web development, React, Nodejs.
+                I recently completed my Bachelor of Science in Information Technology (BScIT) from Usha Pravin Gandhi College of Arts ,Science and Commerce .I am passionate about building modern, user-friendly web applications. With a strong foundation in web development, I'm now focusing on becoming a skilled Full Stack Developer, with a special interest in the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+                During my academic journey, I’ve gained hands-on experience through various projects involving frontend and backend development, API integration, database management, and responsive design. I enjoy solving problems, learning new technologies, and creating seamless digital experiences.
                 </motion.p>
             </div>
         </div>
