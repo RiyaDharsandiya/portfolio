@@ -9,7 +9,6 @@ import toDoList from '../portfolio/to-do-list.jpeg';
 import weatherApp from '../portfolio/weather-app.jpeg';
 import loginSignup from '../portfolio/loginsignup.jpeg';
 import calender from '../portfolio/calender.png';
-import snake from '../portfolio/snake.png';
 
 const PortfolioItem = ({ id, image, view, code, style, title }) => {
     const { ref, inView } = useInView();
