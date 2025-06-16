@@ -71,15 +71,7 @@ const Portfolio = () => {
             title: "Currency Convertor[HTML,CSS,JS]"
         },
         {
-            id: 8,
-            image: snake,
-            view: "https://snake-game-95p6.onrender.com/",
-            code: "https://github.com/RiyaDharsandiya/snake-game",
-            style: "lg:h-80 lg:w-80 md:h-80",
-            title: "Snake Game[NodeJs]"
-        },
-        {
-            id: 9,
+            id: 5,
             image: calender,
             view: "https://riyadharsandiya.github.io/dynamic-calender/",
             code: "https://github.com/RiyaDharsandiya/dynamic-calender",
@@ -87,7 +79,7 @@ const Portfolio = () => {
             title: "Dynamic Calender[HTML,CSS,JS]"
         },
         {
-            id: 5,
+            id: 6,
             image: googleClone,
             view: "https://riyadharsandiya.github.io/basic-google-clone/",
             code: "https://github.com/RiyaDharsandiya/basic-google-clone",
@@ -95,7 +87,7 @@ const Portfolio = () => {
             title: "Google Clone[HTML,CSS,JS]"
         },
         {
-            id: 6,
+            id: 7,
             image: calculator,
             view: "https://riyadharsandiya.github.io/calculator/",
             code: "https://github.com/RiyaDharsandiya/calculator1",
@@ -104,7 +96,7 @@ const Portfolio = () => {
 
         },
         {
-            id: 7,
+            id: 8,
             image: css,
             view: "https://riyadharsandiya.github.io/card-hovereffect/",
             code: "https://github.com/RiyaDharsandiya/card-hovereffect",
